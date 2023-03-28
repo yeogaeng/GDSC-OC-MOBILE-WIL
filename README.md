@@ -1,1 +1,0 @@
-# GDSC-OC-MOBILE-WIL
