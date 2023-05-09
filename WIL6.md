@@ -7,6 +7,7 @@ Last edited time: 2023년 5월 10일 오전 12:25
 
 # EventLeSSARAFIM
 ![Untitled](https://github.com/yeogaeng/GDSC-OC-MOBILE-WIL/assets/81527268/8784b2d0-cfcf-4bce-b7ab-15c1af2c748a)
+
 해당되는 코드를 ctrl+shift+R 눌러서 extract Method로 해당되는 부분을 ‘EventLeSSARAFIM’ 위젯으로 빼줬다.
 
 - ClipRReect 로 Image.asset(’이미지 경로’)를 묶으면 사진 border를 수정할 수 있다.
@@ -80,6 +81,7 @@ class EventLeSSERAFIM extends StatelessWidget {
 padding : symmetric 으로 두고 horizon, vertical로 변화줌
 - arrow_forward
 - arrow_forward_ios
+- md파일에 이미지까지 업로드하는 법 : 일단 텍스트만 있어도 push한 다음에 깃허브 md파일 편집하는 곳에서 이미지 
 
 ### flutter 추천 작업 띄워주는 단축키
 
@@ -92,6 +94,7 @@ scrollDirection = Axis.horizon
 
 # 최근 등록된 심부름
 ![Untitled 1](https://github.com/yeogaeng/GDSC-OC-MOBILE-WIL/assets/81527268/672a0ea8-a18d-403e-a5e0-875d0e92fe82)
+
 최근 등록된 심부름 위젯 재사용 
 
 -> 공통widget으로 만들어서 변경되는 값은 인자값으로 넣어줌
