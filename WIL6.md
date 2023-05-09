@@ -6,9 +6,7 @@ Last edited by: 고여경
 Last edited time: 2023년 5월 10일 오전 12:25
 
 # EventLeSSARAFIM
-
-![Untitled](WIL6%20612e9b62205643bebe8a1fdbb31f443a/Untitled.png)
-
+![Untitled](https://github.com/yeogaeng/GDSC-OC-MOBILE-WIL/assets/81527268/8784b2d0-cfcf-4bce-b7ab-15c1af2c748a)
 해당되는 코드를 ctrl+shift+R 눌러서 extract Method로 해당되는 부분을 ‘EventLeSSARAFIM’ 위젯으로 빼줬다.
 
 - ClipRReect 로 Image.asset(’이미지 경로’)를 묶으면 사진 border를 수정할 수 있다.
@@ -93,9 +91,7 @@ SingleChildScrollView로 overflow없이 스크롤되게 화면밖으로 넘어�
 scrollDirection = Axis.horizon
 
 # 최근 등록된 심부름
-
-![Untitled](WIL6%20612e9b62205643bebe8a1fdbb31f443a/Untitled%201.png)
-
+![Untitled 1](https://github.com/yeogaeng/GDSC-OC-MOBILE-WIL/assets/81527268/672a0ea8-a18d-403e-a5e0-875d0e92fe82)
 최근 등록된 심부름 위젯 재사용 
 
 -> 공통widget으로 만들어서 변경되는 값은 인자값으로 넣어줌
@@ -162,8 +158,8 @@ Sizedbox.shrink 사용!!!!
 -사진은 위에만 둥글고 아래는 뾰족하게 하면 ClipRRect로 감싸고, bordercircular를 topLeft, topright로만 바꿔줌
 
 -ctrl+shift+R로 ExtractWidget눌러 그냥 container도 이름붙여서 바꿔줌.(사실 위젯을 밖으로 빼내준것)
+![Untitled 2](https://github.com/yeogaeng/GDSC-OC-MOBILE-WIL/assets/81527268/fb1f1f25-cafb-4f27-b22d-7d9b11570f34)
 
-![Untitled](WIL6%20612e9b62205643bebe8a1fdbb31f443a/Untitled%202.png)
 
 1. 이미지 윗부분만 둥근 모서리 주기
 
