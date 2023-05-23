@@ -7,9 +7,9 @@ Last edited time: 2023년 5월 24일 오전 12:35
 
 Week7 과제 
 
-![Untitled](WIL7%20352d8518dd194e12bb1de4ac13c2e52b/Untitled.png)
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/af355910-d7a5-45da-8440-76c5851914e3/Untitled.png)
 
-![Untitled](WIL7%20352d8518dd194e12bb1de4ac13c2e52b/Untitled%201.png)
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/88e39ce1-55b6-4be0-9881-3f47ab4751b6/Untitled.png)
 
 ## SafeArea()
 
@@ -63,7 +63,7 @@ GridView.builder(
         ],
 ```
 
-![Untitled](WIL7%20352d8518dd194e12bb1de4ac13c2e52b/Untitled%202.png)
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bbfc4006-82f1-49eb-894b-fe4a5e6ee18e/Untitled.png)
 
 ---
 
@@ -87,7 +87,7 @@ const Wrap(
 
 KeywordBox를 가로로 두는 코드다.
 
-![Untitled](WIL7%20352d8518dd194e12bb1de4ac13c2e52b/Untitled%203.png)
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d06250bb-dd21-4fee-8306-1d26fa8b5daa/Untitled.png)
 
 ---
 
@@ -113,14 +113,13 @@ child: ClipRRect(//사진 둥글게
                         )),
                   ),
 ```
-
-![Untitled](WIL7%20352d8518dd194e12bb1de4ac13c2e52b/Untitled%204.png)
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/11276fa5-43c1-4ea7-ab07-1c4bba328cea/Untitled.png)
 
 ---
 
 ## AppBar :
 
-![Untitled](WIL7%20352d8518dd194e12bb1de4ac13c2e52b/Untitled%205.png)
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4f47be4f-fafa-4538-b2b7-e644bfb51d3b/Untitled.png)
 
 ```dart
 appBar: AppBar(
@@ -155,7 +154,7 @@ appBar: AppBar(
 
 todo에 쓰인 속성들 위주
 
-![Untitled](WIL7%20352d8518dd194e12bb1de4ac13c2e52b/Untitled%206.png)
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/08f2b85c-5cb6-4a4e-9803-17919e939ec8/Untitled.png)
 
 - bottom : PreferredSize는 appbar의 hight 기본에서 추가 변경시킬 수 있다.
 - elevation : 그림자 정도 변경. 0으로 하면 그림자x
