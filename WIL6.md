@@ -81,7 +81,7 @@ class EventLeSSERAFIM extends StatelessWidget {
 padding : symmetric 으로 두고 horizon, vertical로 변화줌
 - arrow_forward
 - arrow_forward_ios
-- md파일에 이미지까지 업로드하는 법 : 일단 텍스트만 있어도 push한 다음에 깃허브 md파일 편집하는 곳에서 이미지 
+- md파일에 이미지까지 업로드하는 법 : 일단 텍스트만 있어도 push한 다음에 깃허브 md파일 편집하는 곳에서 md파일폴더에 따로 있던 이미지를 드래그 앤 드롭
 
 ### flutter 추천 작업 띄워주는 단축키
 
